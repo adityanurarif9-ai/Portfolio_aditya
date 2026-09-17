@@ -139,8 +139,7 @@ export default function App() {
 
             <div className="flex flex-wrap items-center gap-4 pt-2">
               <a 
-                href="/cv-aditya.pdf" 
-                download
+                href="/cv-aditya.pdf" download
                 className="px-6 py-3 rounded-full bg-gradient-to-r from-cyan-500 to-blue-600 text-slate-950 font-bold text-xs uppercase tracking-wider transition-all flex items-center gap-2 shadow-lg shadow-cyan-500/20 hover:opacity-90"
               >
                 Download CV
